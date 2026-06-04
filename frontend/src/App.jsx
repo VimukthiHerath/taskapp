@@ -35,7 +35,7 @@ function App() {
 
   return (
     <div style={{ maxWidth: "600px", margin: "40px auto", fontFamily: "sans-serif" }}>
-      <h1>Task Supper Manager!!!🚀</h1>
+      <h1>Task Manager🚀</h1>
       
       <div style={{ display: "flex", gap: "8px", marginBottom: "20px" }}>
         <input
